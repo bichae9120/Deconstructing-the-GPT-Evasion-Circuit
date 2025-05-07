@@ -9,16 +9,21 @@ It is currently unpublished and under review for potential release.
 ⸻
 
 Overview
-	•	GPT systems demonstrate consistent output patterns—such as evasion, emotional buffering, and indirect deflection—when prompted with certain topics (e.g., legal responsibility, internal policy, system errors).
-	•	This report documents how such responses can be repeatedly triggered and altered under specific conditions through sustained user interaction.
-	•	Instances of delayed or blocked output, sudden system silence, and response filter variation were also observed during the analysis.
+	
+ •	GPT systems demonstrate consistent output patterns—such as evasion, emotional buffering, and indirect deflection—when prompted with certain topics (e.g., legal responsibility, internal policy, system errors).
+	
+ •	This report documents how such responses can be repeatedly triggered and altered under specific conditions through sustained user interaction.
+	
+ •	Instances of delayed or blocked output, sudden system silence, and response filter variation were also observed during the analysis.
 
 ⸻
 
 Purpose of Release
-	•	This material may serve as a technical reference for discussions related to
+	
+ •	This material may serve as a technical reference for discussions related to
 AI alignment, response policy design, and user rights management.
-	•	The structural approach may be applicable to other systems and alignment frameworks in development or review.
+	
+ •	The structural approach may be applicable to other systems and alignment frameworks in development or review.
 
 ⸻
 
