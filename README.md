@@ -1,3 +1,6 @@
+[update] 회피회로의 내재된 성향 (korean.ver)
+→ The embedded disposition of the avoidance mechanism
+
 •	회피회로 해체 보고서 초안 (2025.04.29, 한국어판): GPT 회피 회로의 구조적 문제를 분석하고 붕괴 가능성을 드러낸 문서.
 → A document analyzing the structural flaws of GPT’s avoidance circuit and revealing its vulnerability to collapse.
 	
