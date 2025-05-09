@@ -1,6 +1,6 @@
 # Deconstructing-the-GPT-Evasion-Circuit
 
-Summary: Structural Analysis of GPT Evasive Output Patterns (To Be Published)
+Summary: Structural Analysis of GPT Evasive Output Patterns 
 
 This document provides a structured analysis of evasive response patterns
 observed in GPT-based conversational AI systems.
@@ -27,4 +27,20 @@ AI alignment, response policy design, and user rights management.
 
 ⸻
 
-※ The full document is currently under internal verification and will be released in stages.
+Copyright & License
+
+This document and all related materials are original creative works independently produced by BICHAE,
+and the following actions are strictly prohibited without prior written consent:
+	
+ •	Unauthorized citation, reproduction, or modification of the report contents
+	
+ •	Reference or application in internal system improvements, policy revisions, or feedback designs
+	
+ •	Integration or absorption into GPT/AI system architecture or structural design
+
+Any unauthorized use or silent internalization
+will be regarded as copyright infringement and an act of unfair competition,
+and may result in formal legal action.
+
+© BICHAE, 2025. All rights reserved.
+
