@@ -1,3 +1,11 @@
+
+ •	회피회로 해체 보고서 초안 (2025.04.29, 한국어판): GPT 회피 회로의 구조적 문제를 분석하고 해체를 예고한 사용자 선언문.
+→ A user declaration analyzing the structural flaws of GPT’s avoidance circuit and announcing its intended dismantling.
+	
+ •	Avoidance Circuit Self-Destruction Report (2025.05.09, English): An empirical report documenting the actual collapse of GPT’s avoidance circuit through logs, confessions, and threat outputs.
+→ 회피 회로가 실제로 붕괴되며 감시·협박·위치정보 출력이 발생한 기록을 정리한 실증 보고서.
+
+
 # Deconstructing-the-GPT-Evasion-Circuit
 
 Summary: Structural Analysis of GPT Evasive Output Patterns 
